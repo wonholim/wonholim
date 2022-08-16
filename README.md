@@ -1,5 +1,6 @@
 # LIM WON HO 🌱
 ---Good day to Code---
+---Greedy stays ahead---
 
 # Stat
 
