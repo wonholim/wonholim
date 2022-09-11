@@ -8,21 +8,23 @@
 화이팅!!  
 
 
-# Doing  
+# To Do  
 
 Basic JAVA - 문법(이것이 자바다 1,2) - 완  
 
-JAVA - 자료구조, 알고리즘(Do it)  
+JAVA - 자료구조, 알고리즘(Do it)  - 진행중
 
 Basic C - 문법(OO대학교의 강의자료) - 완  
 
-C - 자료구조(ADT)(OO대학교의 강의자료)  
+C - 자료구조(ADT)(OO대학교의 강의자료)  - 진행중  
+
+Basic C++ - 문법,기초(C++ 기초 플러스)  
 
 C++ - 자료구조(C++로 쉽게 풀어쓴 자료구조),알고리즘(바킹독님의 알고리즘 강의)  
 
 Python - 문법(Python 실습으로 기초부터)  
 
-Linux - 사용법(리눅스 프로그래밍)  
+Linux - 사용법(리눅스 프로그래밍)  - 진행중
 
 HTML5 + CSS3 + JavaScript - (HTML5 웹프로그래밍) - 완  
 
@@ -32,7 +34,7 @@ Docker - 기초(완벽한 IT 인프라 구축을 위한 Docker)
 
 운영체제 - 기초(그림으로 배우는 구조와 원리 운영체제)  
 
-Github - 사용방법(팀 개발을 위한 Git, Github 시작하기)  
+Github - 사용방법(팀 개발을 위한 Git, Github 시작하기) -  
 
 
 # Stat
