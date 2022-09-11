@@ -34,7 +34,7 @@ Docker - 기초(완벽한 IT 인프라 구축을 위한 Docker)
 
 운영체제 - 기초(그림으로 배우는 구조와 원리 운영체제)  
 
-Github - 사용방법(팀 개발을 위한 Git, Github 시작하기) -  
+Github - 사용방법(팀 개발을 위한 Git, Github 시작하기) - 
 
 
 # Stat
