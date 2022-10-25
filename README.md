@@ -20,7 +20,7 @@ Docker - 기초(완벽한 IT 인프라 구축을 위한 Docker)
 
 ![wonholim GitHub stats](https://github-readme-stats.vercel.app/api?username=wonholim&show_icons=true&theme=tokyonight)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kds0034)](https://solved.ac/kds0034/)
-<img src="http://mazandi.herokuapp.com/api?handle={kds0034}&theme=warm"/>
+<img src="http://mazandi.herokuapp.com/api?handle=kds0034&theme=warm"/>
 
 # Languages
 ![JAVA](https://img.shields.io/badge/Java-EE4C2C.svg?&style=for-the-badge&logo=JAVA&logoColor=white)
