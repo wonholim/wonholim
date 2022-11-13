@@ -5,15 +5,9 @@
 
 # To Do  
 
-Basic C++ - 문법,기초(C++ 기초 플러스)  
+JAVA - Stream, Optional
 
-C++ - 자료구조(C++로 쉽게 풀어쓴 자료구조),알고리즘(바킹독님의 알고리즘 강의)  
-
-Python - 문법(Python 실습으로 기초부터)  
-
-Docker - 기초(완벽한 IT 인프라 구축을 위한 Docker)  
-
-운영체제 - 기초(그림으로 배우는 구조와 원리 운영체제)  
+Docker - 기초(완벽한 IT 인프라 구축을 위한 Docker)   
 
 
 # Stat
