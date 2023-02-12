@@ -2,6 +2,7 @@
 
 명지대학교 응용소프트웨어전공을 하며 부족한 부분을 Git으로 정리하고 저장합니다.
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 2023년도 목표
 
 백준 다이아5
