@@ -23,18 +23,3 @@
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kds0034)](https://solved.ac/kds0034/)
   <img src="http://mazandi.herokuapp.com/api?handle=kds0034&theme=warm"/>
 </div>
-<div align = center>
-  <h1> 📁Language📁</h1>
-  
-  ![Java](https://img.shields.io/badge/Java-EE4C2C.svg?&style=for-the-badge&logo=JAVA&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-792EE5.svg?&style=for-the-badge&logo=PYTHON&logoColor=white)
-  
-</div>
-<div align = center>
-  <h1>🌊IDE🌊</h1>
-  
-  ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-6AFDEF.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
-</div>
-
