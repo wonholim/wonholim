@@ -14,7 +14,7 @@
 
       3️⃣ 꾸준히 할 프로젝트
 
-      4️⃣ 전공공부 소홀히 하지 않기
+      4️⃣ 전공공부
 </div>
 
 <div align = center>
@@ -23,3 +23,5 @@
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kds0034)](https://solved.ac/kds0034/)
   <img src="http://mazandi.herokuapp.com/api?handle=kds0034&theme=warm"/>
 </div>
+
+종강
