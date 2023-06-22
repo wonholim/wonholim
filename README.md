@@ -24,4 +24,3 @@
   <img src="http://mazandi.herokuapp.com/api?handle=kds0034&theme=warm"/>
 </div>
 
-종강
